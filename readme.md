@@ -611,10 +611,12 @@ La segunda forma de agregar CSS consiste en agregar las propiedades y valores de
 La sintaxis de css siempre tiene la siguiente estructura:
 
 ~~~css
-etiqueta {
+selector {
 	propiedad: valor;
 }
 ~~~
+
+
 
 ## Cargando un CSS externo:
 La tercera forma para incluir CSS en una página web consiste en agregar un link a un CSS externo, con externo se refiere a fuera de la página, pero puede estar dentro del mismo servidor, o se puede cargar desde otro sitio.
